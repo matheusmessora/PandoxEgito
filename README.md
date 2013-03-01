@@ -1,0 +1,4 @@
+PandoxEgito
+===========
+
+ElasticBeanstalk basic application
